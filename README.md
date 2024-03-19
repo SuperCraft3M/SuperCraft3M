@@ -6,8 +6,8 @@ Je suis un étudiant français de 18 ans, passionné par l'ingénierie informati
 ### Mes Intérêts
 - 🌐 Développement Web: HTML, CSS, JavaScript
 - ☕ Programmation: Java, C++
-- 🎮 Je gère un serveur Minecraft appelé **Eclispia** [Site Web]<(https://www.eclipsia.fr)>
-- 🛠️ Je suis manager sur un projet de PaaS innovant nommé **Naxalian** [Site Web]<(https://naxalian.fr)>
+- 🎮 Je gère un serveur Minecraft appelé **Eclispia** https://www.eclipsia.fr
+- 🛠️ Je suis manager sur un projet de PaaS innovant nommé **Naxalian** https://naxalian.fr
 
 ## Contactez-moi 📬
 Pour toute collaboration ou si vous souhaitez discuter de tech, n'hésitez pas à me contacter!
@@ -22,8 +22,8 @@ I'm an 18-year-old French student with a deep interest in computer engineering. 
 ### My Interests
 - 🌐 Web Development: HTML, CSS, JavaScript
 - ☕ Programming: Java, C++
-- 🎮 Running a Minecraft server named **Eclispia** [WebSite]<(https://www.eclipsia.fr)>
-- 🛠️ Managing an innovative PaaS project called **Naxalian** [WebSite]<(https://naxalian.fr)>
+- 🎮 Running a Minecraft server named **Eclispia** https://www.eclipsia.fr
+- 🛠️ Managing an innovative PaaS project called **Naxalian** https://naxalian.fr
 
 ## Get in Touch 📬
 For collaborations or if you just want to talk tech, feel free to reach out!
