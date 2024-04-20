@@ -11,6 +11,7 @@ Je suis un étudiant français de 18 ans, passionné par l'ingénierie informati
 
 ## Contactez-moi 📬
 Pour toute collaboration ou si vous souhaitez discuter de tech, n'hésitez pas à me contacter!
+Discord : supercraft3m
 
 ---
 
@@ -27,3 +28,4 @@ I'm an 18-year-old French student with a deep interest in computer engineering. 
 
 ## Get in Touch 📬
 For collaborations or if you just want to talk tech, feel free to reach out!
+Discord : supercraft3m
